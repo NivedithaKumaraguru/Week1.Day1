@@ -8,7 +8,7 @@ public class Moblie {
 		}
 
 		public void makeCall(String contact) {
-			System.out.println("Calling " + contact + "....");
+			System.out.println("Calling " + contact + "  ");
 		}
 
 		public void saveContact(long phoneNumber,String contactName) {
